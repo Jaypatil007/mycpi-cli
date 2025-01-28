@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore zip files
+*.zip
+
+# Ignore egg-info folder
+cpi_cli.egg-info/
+
