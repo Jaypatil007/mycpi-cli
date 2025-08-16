@@ -1,1 +1,43 @@
-# Python\n__pycache__/\n*.pyc\n*.pyo\n*.pyd\n\n# Virtual Environment\n.venv/\nenv/\nvirtualenv/\nvirtualenvs/\n\n# Distribution / build\n.Python\nbuild/\ndevelop-eggs/\ndist/\n*\.egg-info/\n.installed.cfg\n\n# Flask specific\ninstance/\n\n# Environment variables\n.env\ncredentials.json\n\n# Editor/IDE files\n.vscode/\n.idea/\n*.sublime-project\n*.sublime-workspace\n\n# Logs\n*.log\n\n# Thumbnails\n.DS_Store\n
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+env/
+venv/
+virtualenv/
+virtualenvs/
+
+# Distribution / build
+.Python
+build/
+develop-eggs/
+dist/
+*.egg-info/
+.installed.cfg
+
+# Flask specific
+instance/
+
+# Environment variables
+.env
+credentials.json
+
+# Specific files to ignore as requested by user
+firebase.md
+GEMINI.md
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Thumbnails
+.DS_Store
