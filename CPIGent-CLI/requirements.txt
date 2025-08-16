@@ -1,0 +1,7 @@
+Flask==3.0.0
+typer==0.16.0
+rich==14.1.0
+google-generativeai==0.8.5
+python-dotenv==1.1.1
+prompt_toolkit==3.0.51
+requests
